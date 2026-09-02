@@ -10,6 +10,7 @@ models behave in real systems.
 ## Current focus
 
 - Automatic Speech Recognition (offline and streaming)
+- Voice agents and voice-agent evaluation harnesses
 - Efficient adaptation of speech generation models
 - Preference optimization and reward design for audio models
 - Multimodal training and inference systems
