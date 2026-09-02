@@ -1,14 +1,36 @@
-## Hiiii👋👋, My name is Odunolaoluwa Jenrola and welcome to my github profile
+# Odunolaoluwa Jenrola
 
+Machine learning research engineer working across speech, audio, and multimodal systems.
 
-I am currently an Electronic and Electrical Engineering Undergraduate at the University of Ibadan, Nigeria and a Freelance Machine Learning Engineer(NLP) and MLOPS
+I build research prototypes and production-minded tools for low-latency speech recognition,
+parameter-efficient adaptation, preference optimization, and audio representation learning.
+I care about translating research into clear, reproducible implementations and measuring how
+models behave in real systems.
 
-I recently developed an interest in Semantic search and I am currently learning as much as I can on the space
+## Current focus
 
-You can reach me via email, Jenrola2292@gmail.com, [Linkedin](https://www.linkedin.com/in/odunolaoluwa-jenrola-7a48081ab "Linkedin") or [Twitter](https://twitter.com/Jenrola_odun).
-I am always open for collaborations 😁
+- Automatic Speech Recognition (offline and streaming)
+- Efficient adaptation of speech generation models
+- Preference optimization and reward design for audio models
+- Multimodal training and inference systems
 
-<!---
-odunola499/odunola499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Selected work
+
+- **[parakeet-streaming](https://github.com/odunola499/parakeet-streaming)** — A real-time ASR
+  service built around NVIDIA's cache-aware FastConformer-RNNT models, with concurrent streaming
+  over WebSockets and TCP.
+- **[f5-lora](https://github.com/odunola499/f5-lora)** — LoRA and full-parameter fine-tuning for
+  F5-TTS, enabling lightweight voice adaptation and style transfer with PyTorch Lightning and
+  Hugging Face integration.
+- **[wavinwav](https://github.com/odunola499/wavinwav)** — An unofficial PyTorch implementation
+  of WavInWav for time-domain speech hiding with invertible neural networks, extended with
+  optional distillation and adversarial objectives.
+- **[audiorl](https://github.com/odunola499/audiorl)** — A lightweight framework for preference
+  tuning speech recognition and audio language models, with DPO, reward shaping, and distributed
+  training support.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/odunolaoluwa-jenrola/) ·
+[X](https://twitter.com/jenrola_odun) ·
+[Email](mailto:Jenrola2292@gmail.com)
