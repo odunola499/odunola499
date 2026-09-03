@@ -18,8 +18,8 @@ models behave in real systems.
 ## Selected work
 
 - **[parakeet-streaming](https://github.com/odunola499/parakeet-streaming)** — A real-time ASR
-  service built around NVIDIA's cache-aware FastConformer-RNNT models, with concurrent streaming
-  over WebSockets and TCP.
+  serving engine built around NVIDIA's cache-aware FastConformer-RNNT models, with concurrent
+  streaming over WebSockets and TCP.
 - **[marginal](https://github.com/odunola499/marginal)** — A local-first research paper assistant
   for reading, annotating, and querying PDFs with grounded chat, page-level citations, retrieval,
   and optional web search.
