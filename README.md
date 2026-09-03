@@ -20,6 +20,9 @@ models behave in real systems.
 - **[parakeet-streaming](https://github.com/odunola499/parakeet-streaming)** — A real-time ASR
   service built around NVIDIA's cache-aware FastConformer-RNNT models, with concurrent streaming
   over WebSockets and TCP.
+- **[marginal](https://github.com/odunola499/marginal)** — A local-first research paper assistant
+  for reading, annotating, and querying PDFs with grounded chat, page-level citations, retrieval,
+  and optional web search.
 - **[f5-lora](https://github.com/odunola499/f5-lora)** — LoRA and full-parameter fine-tuning for
   F5-TTS, enabling lightweight voice adaptation and style transfer with PyTorch Lightning and
   Hugging Face integration.
